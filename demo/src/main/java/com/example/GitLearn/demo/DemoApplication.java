@@ -13,6 +13,10 @@ public class DemoApplication {
 		int b = 6;
 		int sum = a+b;
 		System.out.println("My name is Divyam Kudeshia and the sum is: " +sum);
+		int c = 5;
+		int d = 7;
+		int mul = c*d;
+		System.out.println("This is Kakashi Hatake and the product is:" +mul);
 	}
 
 }
